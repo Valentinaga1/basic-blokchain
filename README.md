@@ -1,4 +1,5 @@
-## This Python project implements fundamental blockchain functionality, encompassing several key features:
+### Basic Blockchain
+This Python project implements fundamental blockchain functionality, encompassing several key features:
 
 - ### mine_block:
   This function is responsible for mining (creating) a new block on the blockchain. It calculates the proof-of-work, adds transactions to the block, and ensures the block is valid before appending it to the chain.
